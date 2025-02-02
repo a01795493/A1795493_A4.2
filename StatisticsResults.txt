@@ -1,0 +1,7 @@
+Descriptive Statistics:
+Mean: 241.49511400651465
+Median: 241
+Mode: 393
+Standard Deviation: 145.46484786056646
+Variance: 21160.021963097748
+Execution Time: 0.0110 seconds
